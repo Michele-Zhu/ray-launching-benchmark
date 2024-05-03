@@ -25,5 +25,7 @@ Licenses
 -------
 Source code is released under Apache 2.0 License.
 Project specific assets are released under CC-BY 4.0 License.
+
 Carla assets are distributed under CC-BY License.
+
 Open Street Maps assets are distributed under Open Data Commons Open Database License (ODbL).
