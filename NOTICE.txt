@@ -1,0 +1,24 @@
+Notice Beta
+
+The initial development of the framework has been published in [doi], date. 
+If any derivative work is produced from this project, please cite appropriately our contribution.
+@TBD{TBD,
+  title = {TBD},
+  author = {Michele Zhu and Lorenzo Cazzella and Francesco Linsalata and Maurizio Magarini and Matteo Matteucci and Umberto Spagnolini},
+  booktitle = {TBD},
+  pages = {TBD},
+  year = {TBD}
+}
+Source code is distributed under Apache-2.0 license, documentation is licensed under the Creative Commons Attribution (CC BY 4.0).
+
+Any use of the provided digital assets must follow the appropriate license and guidelines.
+
+Carla assets are distributed under CC-BY License.
+
+Open Street Maps assets are distributed under Open Data Commons Open Database License (ODbL).
+
+WI
+
+Sionna
+
+Matlab
