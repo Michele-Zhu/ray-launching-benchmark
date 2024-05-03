@@ -1,5 +1,15 @@
 # Digital-Twins-of-the-Electromagnetic-Environment-A-Benchmark-for-Ray-Launching-Models
 
+This repository contains the source code for the TBD for TBD by TBD.
+
+Evaluation scenarios
+-----
+TBD
+
+Ray Optical Simulation Framework
+-----
+TBD
+
 Paper
 -----
 
