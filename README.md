@@ -19,9 +19,9 @@ Paper
 
 If you use our work, please cite our TBD paper.
 
-[TBD] _CARLA: An Open Urban Driving Simulator_<br>Alexey Dosovitskiy, German Ros,
-Felipe Codevilla, Antonio Lopez, Vladlen Koltun; PMLR 78:1-16
-[[PDF](TBD)]
+Digital Twins of the EM Environment: Benchmark for Ray Launching Models. [[PDF](TBD)]
+
+
 
 
 ```
