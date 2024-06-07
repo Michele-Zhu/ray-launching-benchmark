@@ -1,4 +1,4 @@
-# Digital-Twins-of-the-Electromagnetic-Environment:-Benchmark-for-Ray-Launching-Models
+# Digital Twins of the Electromagnetic Environment: Benchmark for Ray Launching Models
 
 This repository contains the source code for the TBD for TBD by TBD.
 
