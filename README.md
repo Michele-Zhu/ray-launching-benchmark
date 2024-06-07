@@ -1,4 +1,4 @@
-# Digital-Twins-of-the-Electromagnetic-Environment-A-Benchmark-for-Ray-Launching-Models
+# Digital-Twins-of-the-Electromagnetic-Environment:-Benchmark-for-Ray-Launching-Models
 
 This repository contains the source code for the TBD for TBD by TBD.
 
@@ -8,7 +8,7 @@ TBD
 
 Evaluation scenarios
 -----
-TBD
+[[link](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope67HRsXFs9_dAh1RssQC73HxUOElEQTFCUTcxVzhLVTNFUEhXUUFSRkFTNi4u)] In order to receive the scenarios and transceiver positions, please kindly compile the form in link. In case of problems, please write us an e-mail.
 
 Ray Optical Simulation Framework
 -----
@@ -21,8 +21,7 @@ If you use our work, please cite our TBD paper.
 
 [TBD] _CARLA: An Open Urban Driving Simulator_<br>Alexey Dosovitskiy, German Ros,
 Felipe Codevilla, Antonio Lopez, Vladlen Koltun; PMLR 78:1-16
-[[PDF](http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)]
-[[talk](https://www.youtube.com/watch?v=xfyK03MEZ9Q&feature=youtu.be&t=2h44m30s)]
+[[PDF](TBD)]
 
 
 ```
