@@ -1,18 +1,10 @@
 # Digital Twins of the Electromagnetic Environment: Benchmark for Ray Launching Models
 
-This repository contains the source code for the TBD for TBD by TBD.
-
-Requirements
------
-TBD
 
 Evaluation scenarios
 -----
 [[link](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope67HRsXFs9_dAh1RssQC73HxUOElEQTFCUTcxVzhLVTNFUEhXUUFSRkFTNi4u)] In order to receive the scenarios and transceiver positions, please kindly compile the form in link. In case of problems, please write us an e-mail.
 
-Ray Optical Simulation Framework
------
-TBD
 
 Paper
 -----
