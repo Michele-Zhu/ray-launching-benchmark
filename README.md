@@ -31,6 +31,6 @@ Licenses
 Source code is released under Apache 2.0 License.
 Project specific assets are released under CC-BY 4.0 License.
 
-Carla assets are distributed under CC-BY License.
+Carla assets are distributed under CC-BY License. [[link](https://github.com/carla-simulator/carla)]
 
-Open Street Maps assets are distributed under Open Data Commons Open Database License (ODbL).
+Open Street Maps assets are distributed under Open Data Commons Open Database License (ODbL). [[link](https://www.openstreetmap.org/)]
