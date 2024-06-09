@@ -26,6 +26,14 @@ Digital Twins of the EM Environment: Benchmark for Ray Launching Models. [[PDF](
 }
 ```
 
+Sionna
+-----
+In order to run the code: install the required libraries in the requirement.txt file. Be careful to use the correct version of sionna and tensorflow before running the code.
+
+Wireless Insite
+-----
+Not provided since project files and structure may change according its version.
+
 Licenses
 -------
 Source code is released under Apache 2.0 License.
