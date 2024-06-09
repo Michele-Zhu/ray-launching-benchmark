@@ -3,7 +3,7 @@
 
 Evaluation scenarios
 -----
-In order to receive the processed scenarios (stl and xlm format) and transceiver positions, please kindly compile the form in [[link](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope67HRsXFs9_dAh1RssQC73HxUOElEQTFCUTcxVzhLVTNFUEhXUUFSRkFTNi4u)]. In case of problems, please write us an e-mail. stl does not contain materials, while xlm file already have concrete material included.
+In order to receive the processed scenarios (stl and xlm format) and transceiver positions, please kindly compile the form in [[link](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope67HRsXFs9_dAh1RssQC73HxUOElEQTFCUTcxVzhLVTNFUEhXUUFSRkFTNi4u)]. In case of problems, please write us an e-mail. stl does not contain materials descriptions, while xlm file already have mesh material included.
 
 
 Paper
