@@ -17,13 +17,17 @@ Digital Twins of the EM Environment: Benchmark for Ray Launching Models. [[PDF](
 
 
 ```
-@TBD{TBD,
-  title = {TBD,
-  author = {TBD},
-  booktitle = {TBD},
-  pages = {TBD},
-  year = {TBD}
-}
+@ARTICLE{10684249,
+  author={Zhu, Michele and Cazzella, Lorenzo and Linsalata, Francesco and Magarini, Maurizio and Matteucci, Matteo and Spagnolini, Umberto},
+  journal={IEEE Open Journal of the Communications Society}, 
+  title={{Toward Real-Time Digital Twins of EM Environments: Computational Benchmark for Ray Launching Software}}, 
+  year={2024},
+  volume={5},
+  number={},
+  pages={6291-6302},
+  keywords={Computational modeling;Reflection;Benchmark testing;Software;Wireless communication;Ray tracing;Digital twins;Network digital twins;radio map;radio propagation;ray launching;ray tracing;wireless communication},
+  doi={10.1109/OJCOMS.2024.3463963}}
+
 ```
 
 Sionna
