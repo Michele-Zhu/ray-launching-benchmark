@@ -9,9 +9,9 @@ In order to receive the processed scenarios (stl and xlm format) and transceiver
 Paper
 -----
 
-If you use our work, please cite our TBD paper.
+If you use our work, please cite our paper.
 
-Digital Twins of the EM Environment: Benchmark for Ray Launching Models. [[PDF](TBD)]
+Digital Twins of the EM Environment: Benchmark for Ray Launching Models.
 
 
 
