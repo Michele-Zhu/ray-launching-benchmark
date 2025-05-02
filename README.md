@@ -3,7 +3,7 @@
 
 Evaluation scenarios
 -----
-In order to receive the processed scenarios (stl and xlm format) and transceiver positions, please kindly compile the form in [[link](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope67HRsXFs9_dAh1RssQC73HxUOElEQTFCUTcxVzhLVTNFUEhXUUFSRkFTNi4u)]. In case of problems, please write us an e-mail. stl does not contain materials descriptions, while xlm file already have mesh material included.
+In order to receive the processed scenarios (STL and XLM format) and transceiver positions, please kindly compile the form in [[link](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope67HRsXFs9_dAh1RssQC73HxUOElEQTFCUTcxVzhLVTNFUEhXUUFSRkFTNi4u)]. In case of problems, please write us an e-mail. STL does not contain material descriptions, while the XLM file already has mesh material included.
 
 
 Paper
@@ -36,7 +36,7 @@ In order to run the code: install the required libraries in the requirement.txt 
 
 Wireless Insite
 -----
-Not provided since project files and structure may change according its version.
+Not provided since project files and structure may change according to its version.
 
 Licenses
 -------
