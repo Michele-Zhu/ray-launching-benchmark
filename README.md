@@ -3,7 +3,7 @@
 
 Evaluation scenarios
 -----
-The processed scenarios (STL and XLM format) and transceiver positions can be found at the following [[link](https://drive.google.com/drive/folders/15Onajh7ZagU_kJhO5jZkyB-nmkAEppv2?usp=drive_link)]. In case of problems, please write us an email. STL does not contain material descriptions, while the XLM file already has mesh material included.
+The processed scenarios (STL and XLM format) and transceiver positions can be found at the following [link](https://drive.google.com/drive/folders/15Onajh7ZagU_kJhO5jZkyB-nmkAEppv2?usp=drive_link). In case of problems, please write us an email. STL does not contain material descriptions, while the XLM file already has mesh material included.
 
 
 Paper
